@@ -6,7 +6,7 @@ Steps to run:
 	python app.py
 4. Run this command in directory using the Terminal:
 	cd my-app
-5. Then type command:
+5. Then type commands:
         npm install axios
 	npm start
 6. Then go to the web app to test it.
