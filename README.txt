@@ -1,6 +1,6 @@
 Steps to run:
 
-1. Download the folder.
+1. Download or clone the repository.
 2. Open Terminal in the same directory.
 3. Run app.py using command using Terminal:
 	python app.py
